@@ -19,4 +19,4 @@ This is a web implementation of the popular hand game Rock, Paper, Scissors, Liz
 
 ## Overview
 Rock, Paper, Scissors is a web game based on the popular hand game Rock, Paper, Scissors, Lizard, Spock. The player chooses their 'hand': rock, paper, scissors, lizard or spock. The computer then randomly chooses one the five options and the winner is decided according to the following rules:
-<iframe width="722" height="397" src="https://www.youtube.com/embed/pIpmITBocfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/pIpmITBocfM/0.jpg)](http://www.youtube.com/watch?v=pIpmITBocfM "")
