@@ -18,7 +18,7 @@ This is a web implementation of the popular hand game Rock, Paper, Scissors, Liz
 - NPM
 
 ## Overview
-Rock, Paper, Scissors is a web game based on the popular hand game Rock, Paper, Scissors, Lizard, Spock. The player chooses their 'hand': rock, paper, scissors, lizard or spock. The computer then randomly chooses one the five options and the winner is decided according to the following rules:
+Rock, Paper, Scissors is a web game based on the popular hand game Rock, Paper, Scissors, Lizard, Spock. The player chooses their 'hand': rock, paper, scissors, lizard or spock. The computer then randomly chooses one of the five options and the winner is decided according to the following rules:
 [![Sheldon explains rock, paper, scissors, lizard, spock](http://img.youtube.com/vi/pIpmITBocfM/0.jpg)](http://www.youtube.com/watch?v=pIpmITBocfM "")
 
 ## Development
@@ -58,5 +58,3 @@ getWinner = (playerChoice, compChoice) => {
     return [winnerText, playerScore, compScore]
   }
 ```
-
-## Reflection
