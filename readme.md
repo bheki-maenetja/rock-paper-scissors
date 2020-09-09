@@ -58,3 +58,19 @@ getWinner = (playerChoice, compChoice) => {
     return [winnerText, playerScore, compScore]
   }
 ```
+## Reflection
+Given that the project was quite rudimentary - it is, in fact, an extension of a homework assignment I did whilst in a coding bootcamp - there were few, if any, minor obstacles in the development process. As always, the styling can always be improved and perhaps the gameplay can be a bit more 'dramatic'.
+
+## Future Features
+- **Sound Effects:** the feature I would like to add is sound effects for all the button presses as well as sounds to be played when the game has ended in a tie, win or loss.
+
+
+
+
+
+
+
+
+
+
+
