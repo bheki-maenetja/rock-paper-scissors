@@ -9,7 +9,7 @@
     "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
